@@ -23,8 +23,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Projeto de estudo que utilizar o banco de dados MySQL.
+Baixe o [USBWebWerver](https://usbwebserver.yura.mk.ua) para rodar o programa.
 
 ## Installation
 
